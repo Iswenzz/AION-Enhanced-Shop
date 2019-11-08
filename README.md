@@ -1,4 +1,4 @@
-![](https://i.imgur.com/u9t8xGp.png)
+# AION Ehanced Shop
 
 Add extra utilities to Gameforge's AION shop.
 
@@ -6,4 +6,4 @@ Add extra utilities to Gameforge's AION shop.
 
 * Searchbox to filter vault items.
 
-Request feature (Discord): Iswenzz#3906
+Request features (Discord): Iswenzz#3906
