@@ -1,0 +1,39 @@
+{
+    "name": "AION Enhanced Shop",
+    "short_name": "AION Enhanced Shop",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Add extra utilities to Gameforge's AION shop.",
+    "homepage_url": "https://github.com/",
+    "author": "Iswenzz",
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    },
+    "browser_action": {
+        "default_icon": "icon-48.png",
+        "default_popup": "index.html",
+        "default_title": "AION Enhanced Shop"
+    },
+    "permissions": [
+        "http://*.aion.gameforge.com/*",
+        "https://*.aion.gameforge.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "http://*.aion.gameforge.com/*",
+                "https://*.aion.gameforge.com/*"
+            ],
+            "js": [
+                "table.js",
+                "main.js"
+            ]
+        }
+    ],
+    "options_ui": {
+        "page": "index.html",
+        "chrome_style": true
+    }
+}
