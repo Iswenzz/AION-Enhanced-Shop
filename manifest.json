@@ -4,7 +4,7 @@
     "version": "1.0",
     "manifest_version": 2,
     "description": "Add extra utilities to Gameforge's AION shop.",
-    "homepage_url": "https://github.com/",
+    "homepage_url": "https://github.com/Iswenzz/AION-Enhanced-Shop",
     "author": "Iswenzz",
     "icons": {
         "16": "icon-16.png",

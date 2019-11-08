@@ -1,0 +1,24 @@
+{
+  "name": "aion-enhanced-shop",
+  "version": "1.0.0",
+  "description": "Add extra utilities to Gameforge's AION shop.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iswenzz/AION-Enhanced-Shop.git"
+  },
+  "keywords": [
+    "aion",
+    "shop",
+    "gameforge"
+  ],
+  "author": "Iswenzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iswenzz/AION-Enhanced-Shop/issues"
+  },
+  "homepage": "https://github.com/Iswenzz/AION-Enhanced-Shop#readme"
+}
