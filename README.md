@@ -8,6 +8,13 @@ You may request feautures, contact information is found down below.
 
 ![](https://i.imgur.com/zRPW8YU.png)
 
+## Features
 * Searchbox to filter vault items.
 
-Request features (Discord): Iswenzz#3906
+## Instructions
+In order to use this application, just download the archived file down below, and load the extension at ``chrome://extensions/``.
+
+### [Download](https://github.com/Iswenzz/AION-Enhanced-Shop/releases)
+
+## Contributors:
+***Note:*** If you would like to contribute to this repository, feel free to send a pull request, and I will review your code. Also feel free to post about any problems that may arise in the issues section of the repository.
